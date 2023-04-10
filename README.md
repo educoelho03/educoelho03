@@ -2,13 +2,6 @@
 
 <br>
 <br>
-<br>
-
-# 💫 About me:
-🔭 I’m currently working on Sodimac<br>🌱 I’m currently learning Java Spring Framework<br>📫 Contact me eduardopaivacoelho@outlook.com
- 
-<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardopc2022) 
