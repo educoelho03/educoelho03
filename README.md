@@ -4,7 +4,7 @@
 <br>
 <br>
 
-# 💫 Sobre mim:
+# 💫 About me:
 🔭 I’m currently working on Sodimac<br>🌱 I’m currently learning Java Spring Framework<br>📫 Contact me eduardopaivacoelho@outlook.com
 
 <br>
