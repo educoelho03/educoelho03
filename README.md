@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, i'm Eduardo Paiva</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Sodimac<br>🌱 I’m currently learning Java Spring Framework<br>📫 Contact me eduardopaivacoelho@outlook.com
 
