@@ -1,6 +1,6 @@
 <h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou o Eduardo </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Java+com+foco+em+Back-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Java+Backend)](https://git.io/typing-svg)
 
 Enquanto eu faço meu curso superior em Engenharia de Computação pela FIAP, participo também de eventos, bootcamps e faço cursos de Java, Spring, Sql.<br>
 
